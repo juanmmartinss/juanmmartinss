@@ -1,6 +1,6 @@
 # Juan Marcos Martins:
 
-[![LinkedIn](https://www.linkedin.com/in/juan-marcos-martins-1aa289248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Martins-blue)](https://www.linkedin.com/in/juan-marcos-martins-1aa289248/)
 [![Email](https://img.shields.io/badge/Email-ero2003730%40gmail.com-red)](mailto:ero2003730@gmail.com)
 
 ---
