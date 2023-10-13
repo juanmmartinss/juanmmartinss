@@ -9,8 +9,7 @@ Tecnologia e seguindo a trajetória de Ciência da Computação. Sou
 curioso para aprender novas coisas, gosto de me desafiar e tenho
 facilidade com programação. Sou dedicado no que faço,
 empenhado e organizado. Estou em busca de novas experiências
-de modo a aprimorar cada vez mais meus conhecimentos e poder
-crescer juntamente com a empresa. 
+de modo a aprimorar cada vez mais meus conhecimentos.
 
 ## :open_book: O que estou aprendendo no momento:
 - Conhecimento fundamental de Ciência da Computação na UNIFESP.
