@@ -15,10 +15,10 @@ de modo a aprimorar cada vez mais meus conhecimentos.
 - Conhecimento fundamental de Ciência da Computação na UNIFESP.
 
 ## :briefcase: Minha experiência:
-Iniciação Científica
-Instituto de Aeronáutica e Espaço (IAE)
-Outubro, 2023
-A iniciação científica em questão tem como objetivo a criação de uma modelagem matemática/software para otimização da análise de materiais no setor aeroespacial, envolvendo visão computacional para o reconhecimento de materiais aeroespaciais.
+-Iniciação Científica
+-Instituto de Aeronáutica e Espaço (IAE)
+-Outubro, 2023
+-A iniciação científica em questão tem como objetivo a criação de uma modelagem matemática/software para otimização da análise de materiais no setor aeroespacial, envolvendo visão computacional para o reconhecimento de materiais aeroespaciais.
 
 
 Projeto de Inteligência Artificial
