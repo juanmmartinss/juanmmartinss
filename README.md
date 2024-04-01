@@ -34,7 +34,7 @@ Participação como instrutor em aulas introdutórias ao Python, para alunos do 
 
 
 ## :mortar_board: Formação:
-- Cursando Ciência da Computação na UNIFESP-São José dos Campos (Universidade Federal de São Paulo - São José dos Campos), previsão de conclusão no final de 2024.
+- Cursando Ciência da Computação na UNIFESP-São José dos Campos (Universidade Federal de São Paulo - São José dos Campos), previsão de conclusão no final de 2025.
 - Expansão constante de meu conhecimento através do autoestudo.
 
 ## :dart: Minhas habilidades:
