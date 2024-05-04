@@ -4,8 +4,8 @@
 [![Email](https://img.shields.io/badge/Email-juanmarcosmartinss%40gmail.com-red)](mailto:juanmarcosmartinss@gmail.com)
 
 ---
-:wave: Sou graduando em bacharelado Interdisciplinar em Ciência e
-Tecnologia e seguindo a trajetória de Ciência da Computação. Sou
+:wave: Sou formado em bacharelado Interdisciplinar em Ciência e
+Tecnologia e atualmente cursando Ciência da Computação na Unifesp. Sou
 curioso para aprender novas coisas, gosto de me desafiar e tenho
 facilidade com programação. Sou dedicado no que faço,
 empenhado e organizado. Estou em busca de novas experiências
@@ -30,7 +30,10 @@ Participação em workshop de Inteligência Artificial promovido por um docente 
 - Projeto voluntário - Aulas Python, 
 Universidade Federal de São Paulo (UNIFESP), 
 Abril, 2023 - junho, 2023, 
-Participação como instrutor em aulas introdutórias ao Python, para alunos do Ensino Fundamental II. O projeto foi promovido pela Fundação Hélio Augusto de Souza (FUNDHAS) em parceria com um grupo de docentes da Universidade Federal de São Paulo (UNIFESP), “Mulheres nas Exatas”. 
+Participação como instrutor em aulas introdutórias ao Python, para alunos do Ensino Fundamental II. O projeto foi promovido pela Fundação Hélio Augusto de Souza (FUNDHAS) em parceria com um grupo de docentes da Universidade Federal de São Paulo (UNIFESP), “Mulheres nas Exatas”.
+
+- Projeto voluntário - Hamburgada do Bem,
+Participação como voluntário de cozinha nas edições de São José dos Campos. O projeto em questão tem como objetivo levar um dia de muita alegria, brincadeiras e diversão para crianças de bairros periféricos de São José dos Campos.
 
 
 ## :mortar_board: Formação:
@@ -41,10 +44,12 @@ Participação como instrutor em aulas introdutórias ao Python, para alunos do 
 - Domínio das Linguagens de
 programação: Python, C;
 
-- Conhecimento básico em:
+- Conhecimento intermediário em:
 HTML, JavaScript, CSS,  Java e ASSEMBLY;
 
 - Pacote Office intermediário.
+
+- Ferramentas Microsoft avançada: Power BI, Power Automate.
 
 
 
