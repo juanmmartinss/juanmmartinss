@@ -37,7 +37,7 @@ Participação como voluntário de cozinha nas edições de São José dos Campo
 
 
 ## :mortar_board: Formação:
-- Cursando Ciência da Computação na UNIFESP-São José dos Campos (Universidade Federal de São Paulo - São José dos Campos), previsão de conclusão no final de 2025.
+- Cursando Ciência da Computação na UNIFESP - São José dos Campos (Universidade Federal de São Paulo - São José dos Campos), previsão de conclusão no final de 2025.
 - Expansão constante de meu conhecimento através do autoestudo.
 
 ## :dart: Minhas habilidades:
