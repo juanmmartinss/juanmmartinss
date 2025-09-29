@@ -14,28 +14,6 @@ de modo a aprimorar cada vez mais meus conhecimentos.
 ## :open_book: O que estou aprendendo no momento:
 - Conhecimento fundamental de Ciência da Computação na UNIFESP.
 
-## :briefcase: Minha experiência:
-- Iniciação Científica, 
-Instituto de Aeronáutica e Espaço (IAE), 
-Outubro, 2023, 
-A iniciação científica em questão tem como objetivo a criação de uma modelagem matemática/software para otimização da análise de materiais no setor aeroespacial, envolvendo visão computacional para o reconhecimento de materiais aeroespaciais.
-
-
-- Projeto de Inteligência Artificial, 
-Universidade Federal de São Paulo (UNIFESP), 
-Junho, 2023, 
-Participação em workshop de Inteligência Artificial promovido por um docente da UNIFESP, com o desenvolvimento de projeto com o tema “Visão computacional na estimativa da distância e altura de pessoas em cenas”. Mais detalhes do projeto podem ser vistos em: https://github.com/juanmmartinss
-
-
-- Projeto voluntário - Aulas Python, 
-Universidade Federal de São Paulo (UNIFESP), 
-Abril, 2023 - junho, 2023, 
-Participação como instrutor em aulas introdutórias ao Python, para alunos do Ensino Fundamental II. O projeto foi promovido pela Fundação Hélio Augusto de Souza (FUNDHAS) em parceria com um grupo de docentes da Universidade Federal de São Paulo (UNIFESP), “Mulheres nas Exatas”.
-
-- Projeto voluntário - Hamburgada do Bem,
-Participação como voluntário de cozinha nas edições de São José dos Campos. O projeto em questão tem como objetivo levar um dia de muita alegria, brincadeiras e diversão para crianças de bairros periféricos de São José dos Campos.
-
-
 ## :mortar_board: Formação:
 - Cursando Ciência da Computação na UNIFESP - São José dos Campos (Universidade Federal de São Paulo - São José dos Campos), previsão de conclusão no final de 2025.
 - Expansão constante de meu conhecimento através do autoestudo.
