@@ -6,9 +6,7 @@
 ---
 
 👋 Hi there!  
-I hold a Bachelor’s degree in Science and Technology and I am currently pursuing a degree in Computer Science at **UNIFESP (Federal University of São Paulo)**.  
-I’m passionate about learning new technologies, enjoy taking on challenges, and have strong skills in programming and problem-solving.  
-Dedicated, organized, and always looking for opportunities to expand my knowledge and gain new experiences.
+I hold a Bachelor’s degree in Science and Technology and I am currently pursuing a degree in Computer Science at **UNIFESP (Federal University of São Paulo)**. I’m passionate about learning new technologies, enjoy taking on challenges, and have strong skills in programming and problem-solving. Dedicated, organized, and always looking for opportunities to expand my knowledge and gain new experiences.
 
 ---
 
