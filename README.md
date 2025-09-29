@@ -33,7 +33,7 @@ HTML, JavaScript, CSS,  Java e ASSEMBLY;
 
 ---
 
-| ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmmartinss&show_icons=true&theme=merko) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmartinss&layout=compact&theme=merko)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmmartinss&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmartinss&layout=compact&theme=merko)
 
 
 
