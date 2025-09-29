@@ -25,7 +25,7 @@ Dedicated, organized, and always looking for opportunities to expand my knowledg
 ---
 
 ## 🎯 Skills
-- **Programming Languages:** Python, C  
+- **Programming Languages:** Python, C, Ruby
 - **Intermediate Knowledge:** HTML, CSS, JavaScript, Java, Assembly  
 - **Tools & Platforms:** Microsoft Office (intermediate), Power BI, Power Automate (advanced)  
 
