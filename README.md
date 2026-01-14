@@ -32,5 +32,6 @@ I hold a Bachelor’s degree in Science and Technology and I am currently pursui
 ## 📊 GitHub Stats
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanmmartinss&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmmartinss&layout=compact&theme=merko)
+![Stats](https://gitmystat.vercel.app/api?username=juanmmartinss)
 
 ---
