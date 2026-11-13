@@ -12,7 +12,7 @@
 
 ## About Me
 
-Computer Scientist with a Bachelor's degree in Science and Technology, both from **UNIFESP (Federal University of São Paulo)**.
+Computer Scientist with a Bachelor's degree in Science and Technology, both from **Unifesp (Federal University of São Paulo)**.
 
 I'm passionate about both software and hardware, with a particular interest in computer systems, embedded technologies, and the integration of hardware and software.
 
